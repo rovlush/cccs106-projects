@@ -51,10 +51,12 @@
   cccs106_env\Scripts\activate
 
 ## Install Flet:
-
+  ```bash
 pip install flet==0.28.3
 
+
 ## ▶️ Running GUI Applications
+
 # Navigate to project directory
 cd week2_labs
 
